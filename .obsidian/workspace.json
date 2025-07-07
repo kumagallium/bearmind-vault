@@ -124,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "test2へのバックリンク"
+              "title": "バックリンク"
             }
           },
           {
@@ -198,11 +197,11 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "236c19a68bb7443a",
+  "active": "6e308befafa33687",
   "lastOpenFiles": [
+    "test2.md",
     "index.md",
     "テスト.md",
-    "test2.md",
     "private/privateテスト.md",
     "private"
   ]
