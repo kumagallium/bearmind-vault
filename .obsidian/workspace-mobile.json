@@ -143,9 +143,14 @@
       "canvas:新規キャンバスを作成": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
-      "command-palette:コマンドパレットを開く": false
+      "command-palette:コマンドパレットを開く": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "074390d1ce4dd852",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Templates/Zettel.md",
+    "Templates",
+    "無題のファイル.md"
+  ]
 }

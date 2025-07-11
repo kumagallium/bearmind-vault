@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Templates/Zettel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Zettel"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Templates/Zettel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "indexへのバックリンク"
+              "title": "Zettelへのバックリンク"
             }
           },
           {
@@ -186,10 +186,14 @@
   },
   "active": "236c19a68bb7443a",
   "lastOpenFiles": [
-    "test2.md",
-    "index.md",
-    "テスト.md",
     "private/privateテスト.md",
+    "Templates/Zettel.md",
+    "関連ノート1.md",
+    "index.md",
+    "Templates",
+    "無題のファイル.md",
+    "test2.md",
+    "テスト.md",
     "private"
   ]
 }
