@@ -11,10 +11,24 @@
             "id": "074390d1ce4dd852",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "無題のファイル.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "無題のファイル"
             }
           }
         ]
@@ -149,11 +163,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d66a4929b91fa99",
+  "active": "074390d1ce4dd852",
   "lastOpenFiles": [
+    "無題のファイル.md",
     "aaa.md",
     "無題のファイル 1.md",
-    "無題のファイル.md",
     "Templates/Zettel.md",
     "Templates"
   ]
